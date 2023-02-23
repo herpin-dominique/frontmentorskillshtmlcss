@@ -1,2 +1,2 @@
 # frontmentorskillshtmlcss
-révisions html css
+révisions html css challenge sur frontmentor.io

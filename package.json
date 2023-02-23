@@ -1,0 +1,19 @@
+{
+  "name": "frontmentorskillshtmlcss",
+  "version": "1.0.0",
+  "description": "révisions html css challenge sur frontmentor.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herpin-dominique/frontmentorskillshtmlcss.git"
+  },
+  "author": "dom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/herpin-dominique/frontmentorskillshtmlcss/issues"
+  },
+  "homepage": "https://github.com/herpin-dominique/frontmentorskillshtmlcss#readme"
+}
